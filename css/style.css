@@ -1,3 +1,7 @@
+.mdm-logo {
+    display: none;
+}
+
 p, ul {
     line-height: 1.75em;
     font-family: 'Lora', serif;
